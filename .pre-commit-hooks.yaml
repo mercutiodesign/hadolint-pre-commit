@@ -4,4 +4,4 @@
   language: docker_image
   types:
   - dockerfile
-  entry: --entrypoint /bin/hadolint hadolint/hadolint:v1.17.5-8-gc8bf307-alpine -
+  entry: --entrypoint /bin/hadolint hadolint/hadolint:v1.19.0-44-gf364c91-alpine -
